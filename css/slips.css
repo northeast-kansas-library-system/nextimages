@@ -1,7 +1,12 @@
-/* Print everything in black on receipts */
 @media print {
+  * {
+    color: #000000 !important;
+    background-color: #ffffff;
+  }
   .letter {
-    font-family: 12pt Georgia, "Times New Roman", Times, serif;
+    width: 8.5in;
+    margin: 0;
+    font-family: 12pt "Times New Roman", Times, serif;
     width: 8.5in;
     font-weight: normal;
   }
@@ -9,10 +14,12 @@
     width: 70mm;
     margin: 0;
     font-family: Verdana, Arial, sans-serif;
-    color: #000000 !important;
-    background-color: #ffffff;
     font-weight: bold !important;
   }
+}
+
+.alignright {
+  float: right;
 }
 
 body {
