@@ -4,7 +4,7 @@
     background-color: #ffffff;
   }
   .letter {
-    @page {size:8.5in 11in; margin: .75in}
+    @page {size:8.5in 11in; margin: 25mm}
     font-family: 14pt Georgia, "Times New Roman", Times, serif !important;
     font-weight: normal;
   }
