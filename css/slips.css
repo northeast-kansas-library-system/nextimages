@@ -8,8 +8,6 @@
     width: 70mm;
     margin: 0;
     font-family: Verdana, Arial, sans-serif;
-  }
-  body.slip, .slip p, .slip h1, .slip h2, .slip h3, .slip h4, .slip h5, .slip h6, .slip a, .slip td, .credit {
     color: #000000 !important;
     background-color: #ffffff;
     font-weight: bold !important;
