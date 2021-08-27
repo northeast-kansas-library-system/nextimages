@@ -1,5 +1,9 @@
 /* Print everything in black on receipts */
 @media print {
+  body.letter {
+    font: 14pt Georgia, "Times New Roman", Times, serif;
+    width: 8.5in;
+  }
   body.slip {
     width: 70mm;
     margin: 0;
