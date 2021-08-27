@@ -1,10 +1,10 @@
 /* Print everything in black on receipts */
 @media print {
-  body.letter {
+  .letter {
     font-family: 14pt Georgia, "Times New Roman", Times, serif;
     width: 8.5in;
   }
-  body.slip {
+  .slip {
     width: 70mm;
     margin: 0;
     font-family: Verdana, Arial, sans-serif;
