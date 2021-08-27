@@ -21,6 +21,10 @@
   float: right;
 }
 
+.letter {
+  font-size: 14pt;
+}
+
 .slip {
   font-size: 10pt;
 }
