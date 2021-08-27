@@ -6,7 +6,7 @@
   .letter {
     width: 6.5in;
     margin: 1in;
-    font-family: 14pt Georgia, "Times New Roman", Times, serif;
+    font-family: 14pt Georgia, "Times New Roman", Times, serif !important;
     width: 8.5in;
     font-weight: normal;
   }
