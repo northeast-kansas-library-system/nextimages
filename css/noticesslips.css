@@ -1,89 +1,41 @@
-* {
-  font-family: Verdana, Arial, sans-serif;
+.notice {
+  font-family: "times new roman", times, serif;
+  font-size: 12pt !important;
+  color: #000000 !important;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-align: left;
+  letter-spacing: 0px;
+  line-height: 18px;
 }
 
-body .notice {
-  color: #000000;
-  background-color: #ffffff;
-  width: 90%;
-  margin: 0;
-  font-size: 12pt;
-}
-
-.notice p {
-  font-size: 12pt;
-  color: #000000;
-}
-
-.notice h1 {
-  font-size: 1.6em;
-  color: #000000;
-}
-
-.notice h2 {
-  font-size: 1.5em;
-  color: #000000;
-}
-
-.notice h3 {
-  font-size: 1.4em !important;
-  color: #000000;
-}
-
-.notice h4 {
-  font-size: 1.3em !important;
-  color: #000000;
-}
-
-.notice h5 {
-  font-size: 1.2em;
-  color: #000000;
+.notice h1, .notice h2, .notice h3, .notice h4, .notice h5 {
+  color: #000000 !important;
+  line-height: 18px !important;
 }
 
 .notice h6 {
-  font-size: 1.1em;
-  color: #000000;
+  font-size: 1em;
+  font-weight: normal;
+  letter-spacing: 0px;
+  line-height: 18px;
+  margin-block-start: 2em;
+  margin-block-end: 0em;
+  color: #000000 !important;
 }
 
-body .slip {
-  color: #000000;
-  background-color: #ffffff;
-  width: 70mm;
-  margin: 0;
-  font-size: 10pt;
+.notice .emphasis {
+  text-decoration: underline;
+  font-weight: bold
 }
 
-.slip p {
-  font-size: 10pt;
-  color: #000000;
+.notice .borrower_address {
+  margin-top: .75in;
+  padding-left: .5in;
+  margin-block-end: .75in;
 }
 
-.slip h1 {
-  font-size: 1.6em;
-  color: #000000;
-}
-
-.slip h2 {
-  font-size: 1.5em;
-  color: #000000;
-}
-
-.slip h3 {
-  font-size: 1.4em !important;
-  color: #000000;
-}
-
-.slip h4 {
-  font-size: 1.3em !important;
-  color: #000000;
-}
-
-.slip h5 {
-  font-size: 1.2em;
-  color: #000000;
-}
-
-.slip h6 {
-  font-size: 1.1em;
-  color: #000000;
+footer {
+  margin-top: 2em;
 }
