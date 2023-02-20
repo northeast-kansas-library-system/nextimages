@@ -52,6 +52,7 @@
   font-size: 1.1em;
 }
 
+#library_catalog_url,
 #borrower_cardnumber,
 #checkout_count_all,
 #datestamp {
