@@ -1,14 +1,5 @@
 /* See https://24ways.org/2018/managing-flow-and-rhythm-with-css-custom-properties/ to understand the .flow class */
 
-.flow {
-  --flow-space: 12px;
-}
-
-.flow > * + * { 
-  padding-top: 12px;
-  padding-top: var(--flow-space);
-}
-
 /* Page - 8.5 x 11 inch page */
 /* .n_s_page{}*/
 /* Receipt - 70 mm wide receipt tape */
@@ -22,6 +13,15 @@
   color: #000000 !important;
   background-color: #ffffff;
   font-weight: bold !important;
+}
+
+.n_s_receipt_flow {
+  --flow-space: 10px;
+}
+
+.n_s_receipt_flow > * + * { 
+  padding-top: 10px;
+  padding-top: var(--flow-space);
 }
 
 .n_s_receipt p {
