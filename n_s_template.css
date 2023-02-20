@@ -1,0 +1,62 @@
+/* See https://24ways.org/2018/managing-flow-and-rhythm-with-css-custom-properties/ to understand the .flow class */
+
+.flow {
+  --flow-space: 1em;
+}
+
+.flow > * + * { 
+  margin-top: 1em;
+  margin-top: var(--flow-space);
+}
+
+/* Page - 8.5 x 11 inch page */
+/* .n_s_page{}*/
+/* Receipt - 70 mm wide receipt tape */
+
+/* sets width, color, font size, etc for the .n_s_receipt class so it will print properly on a receipt printer */
+.n_s_receipt {
+  font-family: Verdana, Arial, sans-serif;
+  font-size: 10pt;
+  width: 70mm;
+  margin: 0;
+  color: #000000 !important;
+  background-color: #ffffff;
+  font-weight: bold !important;
+}
+
+.n_s_receipt p {
+  font-size: 10pt;
+}
+
+.n_s_receipt h1 {
+  font-size: 1.6em;
+}
+
+.n_s_receipt h2 {
+  font-size: 1.5em;
+}
+
+.n_s_receipt h3 {
+  font-size: 1.4em !important;
+}
+
+.n_s_receipt h4 {
+  font-size: 1.3em !important;
+}
+
+.n_s_receipt h5 {
+  font-size: 1.2em;
+}
+
+.n_s_receipt h6 {
+  font-size: 1.1em;
+}
+
+#borrower_cardnumber,
+#checkout_count_all,
+#datestamp {
+  text-align: center;
+}
+
+/* email - email that will print on 8.5 x 11 inch page */
+/* .n_s_email{}*/
