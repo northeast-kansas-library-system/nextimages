@@ -16,12 +16,12 @@
 }
 
 .n_s_receipt_flow {
-  --flow-space: 10px;
+  --n_s_receipt_flow-space: 10px;
 }
 
 .n_s_receipt_flow > * + * { 
   padding-top: 10px;
-  padding-top: var(--flow-space);
+  padding-top: var(--n_s_receipt_flow-space);
 }
 
 .n_s_receipt p {
