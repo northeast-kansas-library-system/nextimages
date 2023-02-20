@@ -1,11 +1,11 @@
 /* See https://24ways.org/2018/managing-flow-and-rhythm-with-css-custom-properties/ to understand the .flow class */
 
 .flow {
-  --flow-space: 1em;
+  --flow-space: 12px;
 }
 
 .flow > * + * { 
-  padding-top: 1em;
+  padding-top: 12px;
   padding-top: var(--flow-space);
 }
 
