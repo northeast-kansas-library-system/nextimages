@@ -5,15 +5,15 @@
 }
 
 .flow > * + * { 
-  margin-top: 1em;
-  margin-top: var(--flow-space);
+  padding-top: 1em;
+  padding-top: var(--flow-space);
 }
 
 /* Page - 8.5 x 11 inch page */
 /* .n_s_page{}*/
 /* Receipt - 70 mm wide receipt tape */
 
-/* sets width, color, font size, etc for the .n_s_receipt class so it will print properly on a receipt printer */
+/* sets width, color, font size, etc for the .n_s_receipt class so it will print properly on an Epson receipt printer */
 .n_s_receipt {
   font-family: Verdana, Arial, sans-serif;
   font-size: 10pt;
