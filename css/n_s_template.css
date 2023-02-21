@@ -1,10 +1,100 @@
-/* See https://24ways.org/2018/managing-flow-and-rhythm-with-css-custom-properties/ to understand the .flow class */
+/* The n_s_receipt_section class follows rules similar to the "flow" class described at this site: https://24ways.org/2018/managing-flow-and-rhythm-with-css-custom-properties/ */
 
-/* Page - 8.5 x 11 inch page */
-/* .n_s_page{}*/
-/* Receipt - 70 mm wide receipt tape */
+/* All notices and slips */
+
+#library_catalog_url,
+#borrower_cardnumber,
+#checkout_count_all,
+#datestamp {
+  text-align: center;
+}
+
+#next_logo {
+  font-family: 'Tahoma', 'Arial', sans-serif !important;
+  text-align: left;
+}
+
+#next_logo .logo_light {
+  color: #1f9bde;
+  font-weight: 1000;
+  padding-top: 5px;
+  line-height: .25em;
+  font-size: 3em;
+}
+
+#next_logo .logo_dark {
+  color: #0157b9
+}
+
+#next_logo .logo_sub {
+  color: #838689;
+  text-decoration: underline;
+  font-style: italic;
+}
+
+/* email - notice sent as e-mail - prints on 8.5 x 11 */
+
+.n_s_email {
+  width: 7.5in;
+  margin: 0in;
+  color: #000000;
+  background-color: #ffffff;
+  font-family: 'Arial Black', 'Arial', sans-serif !important;
+}
+
+.n_s_email_section {
+  --n_s_email_section-space: 2em;
+}
+
+.n_s_email_section>*+* {
+  padding-top: 2em;
+  padding-top: var(--n_s_email_section-space);
+}
+
+.n_s_email p {
+  font-size: 12pt;
+}
+
+.n_s_email h1 {
+  font-size: 1.8em;
+  color: #000000;
+  background-color: #ffffff;
+}
+
+.n_s_email h2 {
+  font-size: 1.6em;
+  color: #000000;
+  background-color: #ffffff;
+}
+
+.n_s_email h3 {
+  font-size: 1.4em;
+  color: #000000 !important;
+  background-color: #ffffff;
+}
+
+.n_s_email h4 {
+  font-size: 1.3em;
+  color: #000000 !important;
+  background-color: #ffffff;
+}
+
+.n_s_email h5 {
+  font-size: 1.2em;
+  color: #000000 !important;
+  background-color: #ffffff;
+}
+
+.n_s_email h6 {
+  font-size: 1.1em;
+  color: #000000;
+  background-color: #ffffff;
+}
+
+/* .n_s_receipt - 70 mm wide receipt tape */
 
 /* sets width, color, font size, etc for the .n_s_receipt class so it will print properly on an Epson receipt printer */
+
 .n_s_receipt {
   font-family: Verdana, Arial, sans-serif;
   font-size: 10pt;
@@ -19,7 +109,7 @@
   --n_s_receipt_section-space: 8px;
 }
 
-.n_s_receipt_section > * + * { 
+.n_s_receipt_section>*+* {
   padding-top: 8px;
   padding-top: var(--n_s_receipt_section-space);
 }
@@ -52,12 +142,5 @@
   font-size: 1.1em;
 }
 
-#library_catalog_url,
-#borrower_cardnumber,
-#checkout_count_all,
-#datestamp {
-  text-align: center;
-}
-
-/* email - email that will print on 8.5 x 11 inch page */
-/* .n_s_email{}*/
+/* Print - print notice that will print on 8.5 x 11 inch page */
+/* .n_s_print {} */
