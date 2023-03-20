@@ -46,7 +46,7 @@
   --n_s_email_section-space: 2em;
 }
 
-.n_s_email_section>*+* {
+.n_s_email_section > * + * {
   padding-top: 2em;
   padding-top: var(--n_s_email_section-space);
 }
@@ -106,11 +106,10 @@
 }
 
 .n_s_receipt_section {
-  --n_s_receipt_section-space: 8px;
+  --n_s_receipt_section-space: 1em;
 }
 
-.n_s_receipt_section>*+* {
-  padding-top: 8px;
+.n_s_receipt_section > * + * {
   padding-top: var(--n_s_receipt_section-space);
 }
 
