@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="66.145836mm"
+   height="66.145836mm"
+   viewBox="0 0 66.145838 66.145835"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="test.server.blue.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.76167929"
+     inkscape:cx="187.08661"
+     inkscape:cy="351.85412"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="57.767094"
+       y="126.0373"
+       width="493.64609"
+       height="99.779518"
+       id="rect4638" />
+    <rect
+       x="34.135101"
+       y="49.889763"
+       width="145.73062"
+       height="36.76088"
+       id="rect113" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#1f9bde;fill-opacity:0.25;stroke-width:0.264582"
+       id="rect219"
+       width="66.145836"
+       height="66.145836"
+       x="0"
+       y="0" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.12744345,0.12744345,-0.12744345,0.12744345,16.104099,-26.679082)"
+       id="text4636"
+       style="font-size:74.6667px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4638);display:inline;stroke-width:1.46801"><tspan
+         x="57.767578"
+         y="193.97404"
+         id="tspan7568">! Test Server !</tspan></text>
+  </g>
+</svg>
