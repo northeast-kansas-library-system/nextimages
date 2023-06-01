@@ -71,7 +71,7 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="fill:#1f9bde;fill-opacity:0.05;stroke-width:0.264582"
+       style="fill:#000000;fill-opacity:0;stroke-width:0.264582"
        id="rect219"
        width="132.29167"
        height="132.29167"
@@ -81,33 +81,33 @@
        xml:space="preserve"
        transform="matrix(0.14129773,0.14129773,-0.14129773,0.14129773,16.502208,34.272039)"
        id="text4636-0-6"
-       style="font-size:38.296px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4638-86-5);shape-padding:23.7015;display:inline;fill:#1f9bde;fill-opacity:0.25;stroke-width:1.32615;stroke-dasharray:none"><tspan
+       style="font-size:38.296px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4638-86-5);shape-padding:23.7015;display:inline;fill:#1f9bde;fill-opacity:0.15000001;stroke-width:1.32615;stroke-dasharray:none"><tspan
          x="81.46875"
          y="184.58263"
-         id="tspan12068">! Next Search Catalog !</tspan></text>
+         id="tspan12819">! Next Search Catalog !</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.11724797,0.11724797,-0.11724797,0.11724797,17.461604,-21.898922)"
        id="text4636"
-       style="font-size:74.6667px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4638);display:inline;fill:#1f9bde;fill-opacity:0.25;stroke-width:1.59817;stroke-dasharray:none"><tspan
+       style="font-size:74.6667px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4638);display:inline;fill:#1f9bde;fill-opacity:0.15000001;stroke-width:1.59817;stroke-dasharray:none"><tspan
          x="57.767578"
          y="193.97404"
-         id="tspan12070">! Test Server !</tspan></text>
+         id="tspan12821">! Test Server !</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.11724797,0.11724797,-0.11724797,0.11724797,83.607437,44.246912)"
        id="text4636-3"
-       style="font-size:74.6667px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4638-8);display:inline;fill:#1f9bde;fill-opacity:0.25;stroke-width:1.59817;stroke-dasharray:none"><tspan
+       style="font-size:74.6667px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4638-8);display:inline;fill:#1f9bde;fill-opacity:0.15000001;stroke-width:1.59817;stroke-dasharray:none"><tspan
          x="57.767578"
          y="193.97404"
-         id="tspan12072">! Test Server !</tspan></text>
+         id="tspan12823">! Test Server !</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.14129773,0.14129773,-0.14129773,0.14129773,82.648042,-31.873794)"
        id="text4636-0"
-       style="font-size:38.296px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4638-86);shape-padding:23.7015;display:inline;fill:#1f9bde;fill-opacity:0.25;stroke-width:1.32615;stroke-dasharray:none"><tspan
+       style="font-size:38.296px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4638-86);shape-padding:23.7015;display:inline;fill:#1f9bde;fill-opacity:0.15000001;stroke-width:1.32615;stroke-dasharray:none"><tspan
          x="81.46875"
          y="184.58263"
-         id="tspan12074">! Next Search Catalog !</tspan></text>
+         id="tspan12825">! Next Search Catalog !</tspan></text>
   </g>
 </svg>
