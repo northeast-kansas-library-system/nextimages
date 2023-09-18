@@ -1,0 +1,236 @@
+/* Media print */
+
+@media print {
+
+  * {
+    color: #000000 !important;
+    background-color: #ffffff;
+    font-family: 'Arial Black', 'Arial', sans-serif !important;
+  }
+
+  img {
+    display: none;
+  }
+
+  .nsc_slip {
+    width: 2.75in;
+    margin: 0in;
+  }
+
+  .nsc_notices {
+    width: 7in;
+    margin: .75in;
+  }
+
+  .nsc_email {
+    width: 7in;
+    margin: .75in;
+  }
+
+}
+
+/* for slips */
+
+.nsc_slip {
+  font-family: 'Arial Black', 'Arial', sans-serif !important;
+  font-size: 10pt;
+  width: 2.75in;
+  margin: 0in;
+  color: #000000 !important;
+  background-color: #ffffff;
+  font-weight: bold !important;
+}
+
+div {
+  padding-bottom: 2px;
+}
+
+.nsc_slip p {
+  font-size: 10pt;
+}
+
+.nsc_slip h1 {
+  font-size: 1.6em;
+}
+
+.nsc_slip h2 {
+  font-size: 1.5em;
+}
+
+.nsc_slip h3 {
+  font-size: 1.4em !important;
+}
+
+.nsc_slip h4 {
+  font-size: 1.3em !important;
+}
+
+.nsc_slip h5 {
+  font-size: 1.2em;
+}
+
+.nsc_slip h6 {
+  font-size: 1.1em;
+}
+
+.nsc_left {
+  text-align: left;
+}
+
+/* for print notices */
+
+.nsc_notices {
+  width: 7in;
+  margin: .75in;
+  font-family: 'Arial Black', 'Arial', sans-serif !important;
+  font-size: 10pt;
+}
+
+.nsc_notices p {
+  font-size: 10pt;
+}
+
+.nsc_notices h1 {
+  font-size: 1.6em;
+}
+
+.nsc_notices h2 {
+  font-size: 1.5em;
+}
+
+.nsc_notices h3 {
+  font-size: 1.4em !important;
+}
+
+.nsc_notices h4 {
+  font-size: 1.3em !important;
+}
+
+.nsc_notices h5 {
+  font-size: 1.2em;
+}
+
+.nsc_notices h6 {
+  font-size: 1.1em;
+}
+
+/* for emails */
+
+.nsc_email {
+  font-family: 'Tahoma', 'Arial', sans-serif !important;
+  font-size: 12pt;
+  color: #000000;
+  background-color: #ffffff;
+}
+
+.nsc_email p {
+  font-size: 12pt;
+}
+
+.nsc_email h1 {
+  font-size: 1.8em;
+  color: #000000;
+  background-color: #ffffff;
+}
+
+.nsc_email h2 {
+  font-size: 1.6em;
+  color: #000000;
+  background-color: #ffffff;
+}
+
+.nsc_email h3 {
+  font-size: 1.4em;
+  color: #000000 !important;
+  background-color: #ffffff;
+}
+
+.nsc_email h4 {
+  font-size: 1.3em;
+  color: #000000 !important;
+  background-color: #ffffff;
+}
+
+.nsc_email h5 {
+  font-size: 1.2em;
+  color: #000000 !important;
+  background-color: #ffffff;
+}
+
+.nsc_email h6 {
+  font-size: 1.1em;
+  color: #000000;
+  background-color: #ffffff;
+}
+
+/* For Next logo */
+
+.nsc_logo {
+  font-family: 'Tahoma', 'Arial', sans-serif !important; 
+  text-align: left;
+}
+
+.nsc_logo_large {
+  font-weight: 1000; 
+  padding-top: 5px; 
+  font-size: 3em;
+}
+
+.nsc_logo_small {
+  color: #838689; 
+  text-decoration: underline;
+  font-style: italic;
+}
+
+.nsc_logo_net {
+  color: #1f9bde;
+}
+
+.nsc_logo_x {
+  color: #0157b9; 
+}
+
+/* for all types */
+
+article {
+  display: inline-block
+}
+
+.nsc_center {
+  text-align: center;
+}
+
+.nsc_right {
+  text-align: right;
+}
+
+.nsc_title {
+  text-transform: uppercase;
+}
+
+.nsc_barcode {
+  text-transform: uppercase;
+}
+
+.nsc_underline {
+  text-transform: underline;
+}
+
+#library_catalog_url,
+#borrower_cardnumber,
+#checkout_count_all,
+#datestamp {
+  text-align: center;
+}
+
+/* The nsc_section class follows rules similar to the "flow" class described at this site: https://24ways.org/2018/managing-flow-and-rhythm-with-css-custom-properties/ */
+
+
+.nsc_section {
+  --nsc_section-space: 2em;
+}
+
+.nsc_section > * + * {
+  padding-top: 2em;
+  padding-top: var(--n_s_email_section-space);
+}
