@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="132.29167mm"
+   height="132.29167mm"
+   viewBox="0 0 132.29167 132.29167"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="test_server_multi.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.76167929"
+     inkscape:cx="403.05678"
+     inkscape:cy="271.76792"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="11.815997"
+       y="-195.62039"
+       width="632.81227"
+       height="85.337754"
+       id="rect793" />
+    <rect
+       x="346.60257"
+       y="283.58392"
+       width="354.47989"
+       height="242.88438"
+       id="rect412" />
+    <rect
+       x="44.63821"
+       y="89.276421"
+       width="592.11273"
+       height="403.05679"
+       id="rect356" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-3.3429928,34.292305)">
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text410"
+       style="font-size:26.6667px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect412);display:inline" />
+    <rect
+       style="fill:#00ff00;stroke-width:0.264583"
+       id="rect741"
+       width="13.229167"
+       height="13.229167"
+       x="3.3429928"
+       y="-34.292305" />
+    <rect
+       style="fill:#ff00ff;stroke-width:0.264583"
+       id="rect741-8"
+       width="13.229167"
+       height="13.229167"
+       x="122.40549"
+       y="-34.292305" />
+    <rect
+       style="fill:#ff0000;stroke-width:0.264583"
+       id="rect741-3"
+       width="13.229167"
+       height="13.229167"
+       x="122.40549"
+       y="84.770195" />
+    <rect
+       style="fill:#00ffff;stroke-width:0.264583"
+       id="rect741-1"
+       width="13.229167"
+       height="13.229167"
+       x="3.3429928"
+       y="84.770195" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,3.3429928,-34.292305)"
+       id="text791"
+       style="font-size:26.6667px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect793);display:inline" />
+    <text
+       xml:space="preserve"
+       style="font-size:26.3003px;line-height:1.25;font-family:sans-serif;stroke-width:0.264582;fill:#ffdd55"
+       x="3.0078142"
+       y="-18.765663"
+       id="text799"
+       transform="matrix(0.68778083,0.68778083,-0.72697577,0.72697577,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan797"
+         style="font-size:26.3003px;stroke-width:0.264582;fill:#ffdd55"
+         x="3.0078142"
+         y="-18.765663">Test Server</tspan></text>
+  </g>
+</svg>
