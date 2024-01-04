@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="50mm"
-   height="50mm"
-   viewBox="0 0 132.29167 132.29167"
+   width="100.0327mm"
+   height="100.00625mm"
+   viewBox="0 0 264.66986 264.59987"
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
@@ -25,7 +25,7 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.76167929"
-     inkscape:cx="403.05678"
+     inkscape:cx="404.36967"
      inkscape:cy="271.76792"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
@@ -38,8 +38,8 @@
     <rect
        x="11.815997"
        y="-195.62039"
-       width="632.81227"
-       height="85.337754"
+       width="632.81226"
+       height="85.337753"
        id="rect793" />
     <rect
        x="346.60257"
@@ -99,15 +99,145 @@
        style="font-size:26.6667px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect793);display:inline" />
     <text
        xml:space="preserve"
-       style="font-size:26.3003px;line-height:1.25;font-family:sans-serif;stroke-width:0.264582;fill:#ffdd55"
-       x="3.0078142"
-       y="-18.765663"
+       style="font-size:26.3003px;line-height:1.25;font-family:sans-serif;fill:#00ff00;stroke-width:0.264582"
+       x="-38.503853"
+       y="74.605331"
        id="text799"
-       transform="matrix(0.68778083,0.68778083,-0.72697577,0.72697577,0,0)"><tspan
+       transform="matrix(0.68778083,-0.68778083,0.72697577,0.72697577,0,0)"><tspan
          sodipodi:role="line"
          id="tspan797"
-         style="font-size:26.3003px;stroke-width:0.264582;fill:#ffdd55"
-         x="3.0078142"
-         y="-18.765663">Test Server</tspan></text>
+         style="font-size:26.3003px;fill:#00ff00;stroke-width:0.264582"
+         x="-38.503853"
+         y="74.605331">Test Server</tspan></text>
+    <rect
+       style="fill:#00ff00;stroke-width:0.264583"
+       id="rect741-2"
+       width="13.229167"
+       height="13.229167"
+       x="3.3429928"
+       y="98.0159" />
+    <rect
+       style="fill:#ff00ff;stroke-width:0.264583"
+       id="rect741-8-3"
+       width="13.229167"
+       height="13.229167"
+       x="122.40545"
+       y="98.0159" />
+    <rect
+       style="fill:#ff0000;stroke-width:0.264583"
+       id="rect741-3-7"
+       width="13.229167"
+       height="13.229167"
+       x="122.40545"
+       y="217.0784" />
+    <rect
+       style="fill:#00ffff;stroke-width:0.264583"
+       id="rect741-1-3"
+       width="13.229167"
+       height="13.229167"
+       x="3.3429928"
+       y="217.0784" />
+    <text
+       xml:space="preserve"
+       style="font-size:26.3003px;line-height:1.25;font-family:sans-serif;fill:#00ffff;stroke-width:0.264582"
+       x="99.192642"
+       y="72.233398"
+       id="text799-8"
+       transform="matrix(0.68778083,0.68778083,-0.72697577,0.72697577,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan797-9"
+         style="font-size:26.3003px;fill:#00ffff;stroke-width:0.264582"
+         x="99.192642"
+         y="72.233398">Test Server</tspan></text>
+    <rect
+       style="fill:#00ff00;stroke-width:0.264583"
+       id="rect741-2-3"
+       width="13.229167"
+       height="13.229167"
+       x="135.72121"
+       y="-34.292305"
+       inkscape:transform-center-x="65.045709"
+       inkscape:transform-center-y="6.6424357" />
+    <rect
+       style="fill:#ff00ff;stroke-width:0.264583"
+       id="rect741-8-3-8"
+       width="13.229167"
+       height="13.229167"
+       x="254.78369"
+       y="-34.292305"
+       inkscape:transform-center-x="-54.016761"
+       inkscape:transform-center-y="6.6424357" />
+    <rect
+       style="fill:#ff0000;stroke-width:0.264583"
+       id="rect741-3-7-0"
+       width="13.229167"
+       height="13.229167"
+       x="254.78369"
+       y="84.770195"
+       inkscape:transform-center-x="-54.016761"
+       inkscape:transform-center-y="125.70494" />
+    <rect
+       style="fill:#00ffff;stroke-width:0.264583"
+       id="rect741-1-3-6"
+       width="13.229167"
+       height="13.229167"
+       x="135.72121"
+       y="84.770195"
+       inkscape:transform-center-x="65.045709"
+       inkscape:transform-center-y="125.70494" />
+    <text
+       xml:space="preserve"
+       style="font-size:26.3003px;line-height:1.25;font-family:sans-serif;fill:#ff00ff;stroke-width:0.264582"
+       x="99.243546"
+       y="-109.81284"
+       id="text799-8-1"
+       transform="matrix(0.68778083,0.68778083,-0.72697577,0.72697577,0,0)"
+       inkscape:transform-center-x="7.1248525"
+       inkscape:transform-center-y="62.871085"><tspan
+         sodipodi:role="line"
+         id="tspan797-9-8"
+         style="font-size:26.3003px;fill:#ff00ff;stroke-width:0.264582"
+         x="99.243546"
+         y="-109.81284">Test Server</tspan></text>
+    <rect
+       style="fill:#00ff00;stroke-width:0.264583"
+       id="rect741-2-1"
+       width="13.229167"
+       height="13.229167"
+       x="135.6512"
+       y="98.0159" />
+    <rect
+       style="fill:#ff00ff;stroke-width:0.264583"
+       id="rect741-8-3-4"
+       width="13.229167"
+       height="13.229167"
+       x="254.71367"
+       y="98.0159" />
+    <rect
+       style="fill:#ff0000;stroke-width:0.264583"
+       id="rect741-3-7-3"
+       width="13.229167"
+       height="13.229167"
+       x="254.71367"
+       y="217.07838" />
+    <rect
+       style="fill:#00ffff;stroke-width:0.264583"
+       id="rect741-1-3-9"
+       width="13.229167"
+       height="13.229167"
+       x="135.6512"
+       y="217.07838" />
+    <text
+       xml:space="preserve"
+       style="font-size:26.3003px;line-height:1.25;font-family:sans-serif;fill:#ff0000;stroke-width:0.264582"
+       x="-38.503857"
+       y="256.60342"
+       id="text799-8-0"
+       transform="matrix(0.68778083,-0.68778083,0.72697577,0.72697577,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan797-9-5"
+         style="font-size:26.3003px;fill:#ff0000;stroke-width:0.264582"
+         x="-38.503857"
+         y="256.60342">Test Server</tspan></text>
   </g>
 </svg>
