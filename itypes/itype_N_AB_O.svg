@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
-   sodipodi:docname="itype_N_AB_O.svg"
+   sodipodi:docname="itype_n_ab_o.svg"
    inkscape:export-filename="itype_N_AB_O.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
@@ -27,8 +27,8 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="0.5121316"
-     inkscape:cx="122.03895"
-     inkscape:cy="608.2421"
+     inkscape:cx="123.01526"
+     inkscape:cy="606.28948"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="-8"
@@ -151,16 +151,16 @@
        transform="matrix(0.33259632,0,0,0.33259632,58.044542,167.8316)"
        id="text1"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:126.157px;line-height:0.9;font-family:'Public Sans';-inkscape-font-specification:'Public Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4);display:inline;opacity:0.833811;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.795509;stroke-dasharray:none"><tspan
-         x="58.92381"
+         x="163.31889"
          y="515.42775"
-         id="tspan2"><tspan
+         id="tspan6"><tspan
            style="stroke-width:0"
-           id="tspan1">Electronic
+           id="tspan4">Digital
 </tspan></tspan><tspan
          x="179.97173"
          y="628.96907"
-         id="tspan5"><tspan
+         id="tspan8"><tspan
            style="stroke-width:0"
-           id="tspan3">Media</tspan></tspan></text>
+           id="tspan7">Media</tspan></tspan></text>
   </g>
 </svg>
